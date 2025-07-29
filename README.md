@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d7342616-47df-4f4a-a9ff-adc5532cb145/ddm5j17-956ee931-9269-4b18-8d0b-a07455c3eeb0.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Q3MzQyNjE2LTQ3ZGYtNGY0YS1hOWZmLWFkYzU1MzJjYjE0NVwvZGRtNWoxNy05NTZlZTkzMS05MjY5LTRiMTgtOGQwYi1hMDc0NTVjM2VlYjAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LWIpk6Jl2CGLHqis_eV0AUAegYGFKxBE3XnKG1aCJZM"  />
+  <img height="150" src="./zenitsu.gif" alt="Zenitsu GIF" />
 </div>
 
 ###
