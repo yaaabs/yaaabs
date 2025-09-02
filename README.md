@@ -5,12 +5,17 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/brian-yabut/" target="_blank">
+  <a href="https://www.linkedin.com/in/brian-yabut/" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a><img src="https://img.shields.io/static/v1?message=WeChat&logo=wechat&label=&color=7BB32A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="wechat logo" /><a href="https://paypal.me/BYabut" target="_blank">
+  </a>
+  <a href="#" style="text-decoration:none;">
+    <img src="https://img.shields.io/static/v1?message=WeChat&logo=wechat&label=&color=7BB32A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="wechat logo" />
+  </a>
+  <a href="https://paypal.me/BYabut" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="paypal logo" />
   </a>
 </div>
+
 
 
 ###
