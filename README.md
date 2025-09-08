@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">🍅 Customodoro Timer  <br>🔗 https://customodoro.vercel.app  <br>📝 A fully customizable Pomodoro timer with beautiful themes, productivity graphs, and focus modes. Designed to help students, professionals, and creatives stay focused and productive.<br><br><br>💡 Wakey Wakey - Keep your computer awake<br>🔗 https://wakey2x.vercel.app  <br>📝 A lightweight app that keeps your computer awake without needing to install software or change settings.<br><br><br>🌊 Ukiyo QR  <br>🔗 https://ukiyo.onrender.com  <br>📝 A minimalist and mobile-friendly QR code generator. Fast, clean, and built for everyday use.</p>
+<p align="left">🍅 Customodoro Timer  <br>🔗 https://customodoro.vercel.app  <br>📝 A fully customizable Pomodoro timer with beautiful themes, productivity graphs, and focus modes. Designed to help students, professionals, and creatives stay focused and productive.<br><br><br>💡 Wakey Wakey - Keep your computer awake<br>🔗 https://wakey2x.vercel.app  <br>📝 A lightweight app that keeps your computer awake without needing to install software or change settings.<br><br><br>🌊 Ukiyo QR  <br>🔗 https://ukiyo-qr.onrender.com  <br>📝 A minimalist and mobile-friendly QR code generator. Fast, clean, and built for everyday use.</p>
 
 ###
 
