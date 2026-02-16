@@ -45,8 +45,8 @@ Behind the app & updates: <a href="https://customodoro-blog.vercel.app">https://
 <p align="left"><strong>Articles & mentions</strong></p>
 <div align="left">
   <ul>
-    <li><a href="https://www.makeuseof.com/reverse-pomodoro-method/">I found this productivity hack on Reddit and it actually works</a>, Mahnoor Faisal — MakeUseOf</li>
-    <li><a href="https://www.maketecheasier.com/flowmodoro-productivity-hack/">Forget Pomodoro! Flowmodoro is the Real Productivity Hack</a>, Karrar Haider — Make Tech Easier</li>
+    <li><a href="https://www.makeuseof.com/reverse-pomodoro-method/">MakeUseOf Article by Mahnoor Faisal</a></li>
+    <li><a href="https://www.maketecheasier.com/flowmodoro-productivity-hack/">Make Tech Easier Article by Karrar Haider</a></li>
   </ul>
 </div>
 
