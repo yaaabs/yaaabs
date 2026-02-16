@@ -1,5 +1,9 @@
 <div align="center">
-  <img height="150" src="./zenitsu.gif" alt="Zenitsu GIF" />
+  <img src="./assets/header.png" alt="Header" />
+</div>
+
+<div align="center">
+  <img height="150" src="./assets/zenitsu.gif" alt="Zenitsu GIF" />
 </div>
 
 ###
@@ -9,7 +13,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   <a href="https://yabutech.vercel.app/" target="_blank" style="text-decoration:none;">
-    <img src="./YABUTECH.png" height="25" alt="YABUTECH logo" />
+    <img src="./assets/YABUTECH.png" height="25" alt="YABUTECH logo" />
   </a>
   <a href="https://x.com/customodoro" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/static/v1?message=Follow&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="x logo" />
@@ -28,13 +32,32 @@
 
 <h1 align="center">Konnichiwa! 👋</h1>
 
-###
-
-<h3 align="left">🚀 Check out my latest projects!</h3>
 
 ###
 
-<p align="left">🍅 Customodoro Timer  <br>🔗 https://customodoro.vercel.app  <br>📝 A fully customizable Pomodoro timer with beautiful themes, productivity graphs, and focus modes. Designed to help students, professionals, and creatives stay focused and productive.<br><br><br>💡 Wakey Wakey - Keep your computer awake<br>🔗 https://wakey2x.vercel.app  <br>📝 A lightweight app that keeps your computer awake without needing to install software or change settings.<br><br><br>🌊 Ukiyo QR  <br>🔗 https://ukiyo-qr.onrender.com  <br>📝 A minimalist and mobile-friendly QR code generator. Fast, clean, and built for everyday use.</p>
+<p align="left">I'm a passionate Full-Stack Developer who loves building web applications and learning new technologies.</p>
+
+<p align="left"><strong>Customodoro</strong> is a powerful and fully customizable Pomodoro timer designed to help students, professionals, and creatives stay focused and productive.</p>
+
+<p align="left">Live demo: <a href="https://customodoro.vercel.app">https://customodoro.vercel.app</a><br>
+Behind the app & updates: <a href="https://customodoro-blog.vercel.app">https://customodoro-blog.vercel.app</a></p>
+
+<p align="left"><strong>Articles & mentions</strong></p>
+<div align="left">
+  <ul>
+    <li><a href="https://www.makeuseof.com/reverse-pomodoro-method/">I found this productivity hack on Reddit and it actually works</a>, Mahnoor Faisal — MakeUseOf</li>
+    <li><a href="https://www.maketecheasier.com/flowmodoro-productivity-hack/">Forget Pomodoro! Flowmodoro is the Real Productivity Hack</a>, Karrar Haider — Make Tech Easier</li>
+  </ul>
+</div>
+
+<p align="left"><strong>Other links</strong></p>
+<div align="left">
+  <ul>
+    <li><a href="https://www.producthunt.com/products/customodoro-timer">Product Hunt – The best new products in tech.</a></li>
+    <li><a href="https://www.superlaun.ch/products/401">Super Launch - A Launch Platform for Software Products</a></li>
+    <li><a href="https://philippineunicorns.com/project/customodoro-timer">Philippine Unicorns - Discover Filipino Innovation & Startups</a></li>
+  </ul>
+</div>
 
 ###
 
@@ -68,16 +91,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" alt="vercel logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="supabase logo" />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=yaaabs&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
